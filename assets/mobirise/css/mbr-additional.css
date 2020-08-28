@@ -1795,6 +1795,110 @@ body {
 .cid-s8ccSxntGO H2 {
   color: #ff7d84;
 }
+.cid-s8VKMKq6I2 {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background: #ffffff;
+}
+.cid-s8VKMKq6I2 .container-fluid {
+  padding: 0 3rem;
+}
+.cid-s8VKMKq6I2 .table-wrap {
+  margin: 0 1rem 3rem 1rem;
+  border: 1px solid #efefef;
+  border-radius: 3%;
+  padding: 3rem;
+  transition: all 0.3s ease-in-out;
+}
+.cid-s8VKMKq6I2 .table-wrap:hover {
+  transition: all 0.3s ease-in-out;
+  background-color: #ff7d84;
+}
+.cid-s8VKMKq6I2 .table-wrap:hover .table-pricing,
+.cid-s8VKMKq6I2 .table-wrap:hover .table-icon {
+  color: #ffffff !important;
+}
+.cid-s8VKMKq6I2 .table-wrap:hover .table-heading,
+.cid-s8VKMKq6I2 .table-wrap:hover .mbr-section-subtitle {
+  color: #ffffff !important;
+}
+.cid-s8VKMKq6I2 .section-heading {
+  margin-bottom: 2rem;
+}
+.cid-s8VKMKq6I2 .table-heading {
+  margin-bottom: 2em;
+}
+.cid-s8VKMKq6I2 .underline {
+  margin-top: 1rem;
+  margin-bottom: 0rem;
+}
+.cid-s8VKMKq6I2 .underline .line {
+  width: 6rem;
+  height: 3px;
+  background: linear-gradient(135deg, #ff7d84, #fe525b);
+  display: inline-block;
+}
+.cid-s8VKMKq6I2 ul {
+  word-wrap: break-word;
+  padding: 0 4rem;
+  margin: 0;
+  list-style: none;
+}
+.cid-s8VKMKq6I2 ul li {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  padding: 0.7em 0;
+  -webkit-align-items: flex-end;
+  align-items: flex-end;
+}
+.cid-s8VKMKq6I2 ul li span {
+  font-size: 32px;
+  color: #000000;
+}
+.cid-s8VKMKq6I2 hr {
+  display: none;
+  background: #efefef;
+}
+.cid-s8VKMKq6I2 hr {
+  display: block;
+}
+.cid-s8VKMKq6I2 .table-heading,
+.cid-s8VKMKq6I2 .table-pricing,
+.cid-s8VKMKq6I2 .table-icon {
+  color: #a38dfd;
+  text-align: left;
+  transition: all 0.3s ease-in-out;
+}
+.cid-s8VKMKq6I2 .mbr-section-subtitle {
+  color: #767676;
+  transition: all 0.3s ease-in-out;
+}
+.cid-s8VKMKq6I2 .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-s8VKMKq6I2 .mbr-iconfont {
+  font-size: 50px;
+}
+@media (max-width: 1200px) {
+  .cid-s8VKMKq6I2 .table-wrap {
+    margin: 1.5rem 0 0 0;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s8VKMKq6I2 .container-fluid {
+    padding: 0 0rem;
+  }
+}
+.cid-s8VKMKq6I2 .table-pricing,
+.cid-s8VKMKq6I2 .table-icon {
+  text-align: center;
+  color: #ff7d84;
+}
+.cid-s8VKMKq6I2 .mbr-section-title,
+.cid-s8VKMKq6I2 .underline {
+  color: #1ba1e2;
+}
 .cid-s8ccTxV9pr {
   padding-top: 90px;
   padding-bottom: 0px;
